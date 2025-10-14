@@ -1,0 +1,25 @@
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Trae/Editor temp
+.trae/
+.vscode/
+
+# Keep dataset tracked (Titanic CSVs are small)
+# Dataset/
